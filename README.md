@@ -1,5 +1,10 @@
 # Air-Quality-Monitor
 Air Quality Monitor ESP32
+2026.1.13
+1. 调整显示界面；
+2. 增加MCU版本，适配 3.2寸-ILI9341-ESP32S3;
+3. 增加MCU版本，适配 2.2寸-ILI9341-ESP32S3;
+4. 增加MCU版本, 适配 2.4寸-ST7789-ESP32S3;
 
 2026.1.9 ver1.0
 
@@ -9,10 +14,6 @@ Air Quality Monitor ESP32
 4. 增加MQTT配置界面；实现参数推送；
 5. 增加 一个按钮动作，切换三个页面；
    
-2026.1.13
-1. 调整显示界面；
-2. 增加MCU版本，3.2寸-ILI9341-ESP32S3;
-3. 增加MCU版本，2.2寸-ILI9341-ESP32S3;
 
 
 
