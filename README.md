@@ -1,6 +1,9 @@
 # Air-Quality-Monitor
 Air Quality Monitor ESP32
 
+2026.1.17
+1. 增加适配3.2寸-st7789-esp32s3;
+2. 增加适配3.2寸-st7789屏幕开孔的3d 模型（壳体/面板/底座/mcu座）
 
 2026.1.13
 1. 调整显示界面；
