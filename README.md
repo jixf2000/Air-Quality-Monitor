@@ -1,6 +1,10 @@
 # Air-Quality-Monitor
 Air Quality Monitor ESP32
 
+2026.1.18
+1. 增加适配2.2寸-ILI9341-esp32c3-mini-pro 版本；
+2. 增加适配2.2寸-ILI9341-esp32c3-mini-pro bin版本；
+
 2026.1.17
 1. 增加适配3.2寸-st7789-esp32s3;
 2. 增加适配3.2寸-st7789屏幕开孔的3d 模型（壳体/面板/底座/mcu座）
