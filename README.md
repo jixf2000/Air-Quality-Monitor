@@ -1,6 +1,25 @@
 # Air-Quality-Monitor
 Air Quality Monitor ESP32
 
+ver 1.30
+
+1. 实现了用户界面配色功能，允许用户通过Web界面自定义设备的底色和字体颜色
+2. 添加了UI颜色变量定义（UI_BG, UI_LIGHT, UI_ACCENT等）和相应的默认值
+3. 实现了颜色配置的保存和加载功能，使用Preferences库持久化存储
+4. 添加了RGB565与HEX颜色格式之间的转换函数
+5. 在Web配置界面中添加了颜色配置选项，使用HTML颜色选择器
+
+<img width="381" height="376" alt="UI Color config" src="https://github.com/user-attachments/assets/d34f7598-78cb-4e10-b884-597d8ff76ebc" />
+
+
+
+
+
+
+ver1.20
+1. 修改bug;
+2. 增加配置页面；
+
 V1.10  
 2026.1.20
 现在设备具备了以下功能：
@@ -9,6 +28,10 @@ OTA更新页面访问：通过设备的配置页面（通常是 http://设备IP:
 进度显示：上传过程中会显示进度条，让用户了解更新进度
 自动重启：更新成功后设备会自动重启并应用新固件
 错误处理：如果更新失败，会有相应的错误提示
+
+![OTA](https://github.com/user-attachments/assets/9d96fb07-7bb3-4eeb-872c-a03fda0ec6cf)
+
+
 
 2026.1.18
 1. 增加适配2.2寸-ILI9341-esp32c3-mini-pro 版本；
