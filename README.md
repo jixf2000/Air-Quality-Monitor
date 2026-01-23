@@ -9,10 +9,10 @@ ver 1.32
 ver 1.31
 
 用户可以在Web界面的设备配置页面中设置四种颜色： 
-• 背景色（Background Color） 
-• 字体颜色（Light Text Color） 
-• 环境变量显示颜色（Environment Variable Color） 
-• 标签颜色（Label Color）
+1. 背景色（Background Color） 
+2. 字体颜色（Light Text Color） 
+3. 环境变量显示颜色（Environment Variable Color） 
+4. 标签颜色（Label Color）
 
 ver 1.30
 
