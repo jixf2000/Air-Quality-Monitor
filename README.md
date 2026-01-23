@@ -1,6 +1,19 @@
 # Air-Quality-Monitor
 Air Quality Monitor ESP32
 
+ver 1.32
+1. 增加夜间休眠模式（关闭屏幕显示）；
+2. 修改屏幕供电pin=4;
+3. 用户配置页面，增加定时开机时间/定时关机时间；
+
+ver 1.31
+
+用户可以在Web界面的设备配置页面中设置四种颜色： 
+• 背景色（Background Color） 
+• 字体颜色（Light Text Color） 
+• 环境变量显示颜色（Environment Variable Color） 
+• 标签颜色（Label Color）
+
 ver 1.30
 
 1. 实现了用户界面配色功能，允许用户通过Web界面自定义设备的底色和字体颜色
